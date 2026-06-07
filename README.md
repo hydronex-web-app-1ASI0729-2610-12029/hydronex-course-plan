@@ -2,64 +2,78 @@
 
 ## Resumen del Curso
 
-Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
-programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
+Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-Nuestro objetivo es el desarrollo de las habilidades de lógica de programación y pensamiento estructurado. Asimismo,
-como dinámica tendremos como meta, al finalizar las lecciones, el desarrollo un minijuego de consola.
+Nuestro objetivo es el desarrollo de las habilidades de lógica de programación y pensamiento estructurado. Asimismo, como dinámica tendremos como meta, al finalizar las lecciones, el desarrollo de un minijuego de consola basado en programación orientada a objetos.
 
 **Duración total**: ~60 minutos
-
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-
 **Prerrequisitos**: Ninguno
-
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de Código Fuente**: [Repositorio de las lecciones](https://github.com/hydronex-web-app-1ASI0729-2610-12029/hydronex-course-plan)
+**📂 Repositorio de Código Fuente**: [Repositorio de las lecciones](https://github.com/hydronex-web-app-1ASI0729-2610-12029/java-fundamentals-course-hydronex)
 
 ## Secuencia de la Lección
+
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
-
-- **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
+- **Descripción**: Descubre qué es la programación, por qué Java es uno de los lenguajes más usados del mundo y cómo escribir tus primeras líneas sin instalar nada.
 - **Enlace**: [Ver la lección](https://www.youtube.com)
-- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Compilador Online - Hola mundo](https://www.onlinegdb.com/)
+- **Conclusiones clave**: Java se usa para aplicaciones y juegos; un programa es una secuencia de instrucciones para la computadora.
+- **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.onlinegdb.com/)
 
-### Lección 2: Variables y tipos de datos (8 minutos)
-
-- **Descripción**: Aprende a almacenar datos en Java usando variables.
+### Lección 2: Tipos de variables (6 minutos)
+- **Descripción**: Aprende cómo la computadora recuerda datos usando variables y cómo almacenar textos con el tipo de dato String.
 - **Enlace**: [Ver la lección](https://www.youtube.com)
-- **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: [Abrir Compilador Online - Variables y tipos de datos](https://www.onlinegdb.com/)
+- **Conclusiones clave**: Una variable es como una caja con nombre; `String` sirve para guardar palabras entre comillas.
+- **Práctica**: [Abrir OnlineGDB - Variables de Texto](https://www.onlinegdb.com/)
 
-### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
-
-- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
+### Lección 3: Operadores (5 minutos)
+- **Descripción**: Conoce los tipos de datos numéricos como int y cómo usar a Java como una súper calculadora mediante operadores matemáticos.
 - **Enlace**: [Ver la lección](https://www.youtube.com)
-- **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: [Abrir Compilador Online - Decisiones y bucles](https://www.onlinegdb.com/)
+- **Conclusiones clave**: Uso de `int` para números enteros; operadores básicos (`+`, `-`, `*`, `/`).
+- **Práctica**: [Abrir OnlineGDB - Operadores Matemáticos](https://www.onlinegdb.com/)
 
-### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
-
-- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
+### Lección 4: Condicionales (6 minutos)
+- **Descripción**: Dale "cerebro" a tu programa enseñándole a tomar caminos diferentes utilizando condiciones lógicas.
 - **Enlace**: [Ver la lección](https://www.youtube.com)
-- **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Abrir Compilador Online - Código reutilizable](https://www.onlinegdb.com/)
+- **Conclusiones clave**: Estructura `if` para evaluar si algo es verdadero y `else` para el caso contrario.
+- **Práctica**: [Abrir OnlineGDB - Sentencias If-Else](https://www.onlinegdb.com/)
 
-### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
-
-- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
+### Lección 5: Bucles (7 minutos)
+- **Descripción**: Evita escribir el mismo código muchas veces. Aprende a usar bucles para repetir acciones de forma automática y controlada.
 - **Enlace**: [Ver la lección](https://www.youtube.com)
-- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Abrir Compilador Online - Programación Orientada a Objetos](https://www.onlinegdb.com/)
+- **Conclusiones clave**: Un bucle `while` se ejecuta mientras se cumpla una condición; un bucle `for` cuenta repeticiones exactamente.
+- **Práctica**: [Abrir OnlineGDB - Bucles en Acción](https://www.onlinegdb.com/)
 
-### Lección 6: Consejos y próximos pasos (10 minutos)
-
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+### Lección 6: Código Reutilizable: Crear tus propios Métodos (6 minutos)
+- **Descripción**: Organiza tu código en bloques independientes y reutilizables llamados métodos, pasándole datos a través de parámetros.
 - **Enlace**: [Ver la lección](https://www.youtube.com)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Abrir Compilador Online - Final del curso](https://www.onlinegdb.com/)
+- **Conclusiones clave**: Los métodos evitan duplicar código; se definen una vez y se pueden "llamar" las veces que quieras.
+- **Práctica**: [Abrir OnlineGDB - Creación de Métodos](https://www.onlinegdb.com/)
+
+### Lección 7: Entrada de datos (6 minutos)
+- **Descripción**: Haz tus programas interactivos aprendiendo a recibir las respuestas y textos que el usuario escribe desde su teclado.
+- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Conclusiones clave**: Uso de la herramienta `Scanner` de Java para leer datos desde la consola de comandos.
+- **Práctica**: [Abrir OnlineGDB - Lectura de Datos](https://www.onlinegdb.com/)
+
+### Lección 8: Programacion Orientada a Objetos (7 minutos)
+- **Descripción**: Entramos al pilar de Java. Aprende a modelar cosas del mundo real en tu código creando moldes (clases) y copias reales (objetos).
+- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Conclusiones clave**: Una clase define atributos (características) y comportamientos; un objeto es la instanciación de esa clase.
+- **Práctica**: [Abrir OnlineGDB - Clases y Objetos Básicos](https://www.onlinegdb.com/)
+
+### Lección 9: Publico y privado: Getters/Setters (6 minutos)
+- **Descripción**: Descubre cómo mantener seguros los atributos de tus objetos bloqueando accesos no autorizados mediante la encapsulación.
+- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Conclusiones clave**: Modificador `private` para proteger variables; métodos `get` y `set` para leer y modificar de forma segura.
+- **Práctica**: [Abrir OnlineGDB - Encapsulación](https://www.onlinegdb.com/)
+
+### Lección 10: Proyecto Final: El Minijuego POO Completo (6 minutos)
+- **Descripción**: ¡Hora de juntar todo! Construiremos un minijuego interactivo aplicando objetos, condicionales y métodos estructurados.
+- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Conclusiones clave**: Resumen general de buenas prácticas y cómo seguir expandiendo tu camino en la programación con Java.
+- **Proyecto final**: [Abrir OnlineGDB - Proyecto Final de Curso](https://www.onlinegdb.com/)
 
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/hydronex-web-app-1ASI0729-2610-12029/hydronex-course-plan)
@@ -84,9 +98,13 @@ como dinámica tendremos como meta, al finalizar las lecciones, el desarrollo un
 ## 👥 Elaboración
 
 Universidad Peruana de Ciencias Aplicadas
+
 Carrera de Ingeniería de Software
+
 Período 202610
+
 1ASI0729 Desarrollo de Aplicaciones Open Source
+
 NRC 12029
 **Nombre del equipo**: Hydronex
 **Líder del equipo**:
