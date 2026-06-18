@@ -41,15 +41,15 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 
 ### Lección 5: Bucles (7 minutos)
 - **Descripción**: Evita escribir el mismo código muchas veces. Aprende a usar bucles para repetir acciones de forma automática y controlada.
-- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Enlace**: [Ver la lección](https://youtu.be/_CBN_zzXE6c)
 - **Conclusiones clave**: Un bucle `while` se ejecuta mientras se cumpla una condición; un bucle `for` cuenta repeticiones exactamente.
-- **Práctica**: [Abrir OnlineGDB - Bucles en Acción](https://www.onlinegdb.com/)
+- **Práctica**: [Abrir OnlineGDB - Bucles en Acción](https://onlinegdb.com/w4yas_E6w)
 
 ### Lección 6: Código Reutilizable: Crear tus propios Métodos (6 minutos)
 - **Descripción**: Organiza tu código en bloques independientes y reutilizables llamados métodos, pasándole datos a través de parámetros.
-- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Enlace**: [Ver la lección](https://youtu.be/48cryLFfnEg)
 - **Conclusiones clave**: Los métodos evitan duplicar código; se definen una vez y se pueden "llamar" las veces que quieras.
-- **Práctica**: [Abrir OnlineGDB - Creación de Métodos](https://www.onlinegdb.com/)
+- **Práctica**: [Abrir OnlineGDB - Creación de Métodos](https://onlinegdb.com/1-YP6rlsp)
 
 ### Lección 7: Entrada de datos (6 minutos)
 - **Descripción**: Haz tus programas interactivos aprendiendo a recibir las respuestas y textos que el usuario escribe desde su teclado.
