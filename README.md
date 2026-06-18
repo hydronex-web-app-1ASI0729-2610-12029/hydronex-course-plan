@@ -29,13 +29,13 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 
 ### Lección 3: Operadores (5 minutos)
 - **Descripción**: Conoce los tipos de datos numéricos como int y cómo usar a Java como una súper calculadora mediante operadores matemáticos.
-- **Enlace**: [Ver la lección](https://youtu.be/d86cp4sBJ5o)
+- **Enlace**: [Ver la lección](https://youtu.be/9FJ4RI4WX2s)
 - **Conclusiones clave**: Uso de `int` para números enteros; operadores básicos (`+`, `-`, `*`, `/`).
 - **Práctica**: [Abrir OnlineGDB - Operadores Matemáticos](https://www.onlinegdb.com/)
 
 ### Lección 4: Condicionales (6 minutos)
 - **Descripción**: Dale "cerebro" a tu programa enseñándole a tomar caminos diferentes utilizando condiciones lógicas.
-- **Enlace**: [Ver la lección](https://youtu.be/yGyEhvc-vfI)
+- **Enlace**: [Ver la lección](https://youtu.be/zDHSRm-CYe8)
 - **Conclusiones clave**: Estructura `if` para evaluar si algo es verdadero y `else` para el caso contrario.
 - **Práctica**: [Abrir OnlineGDB - Sentencias If-Else](https://www.onlinegdb.com/)
 
