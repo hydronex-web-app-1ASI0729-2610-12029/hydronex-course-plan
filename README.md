@@ -53,9 +53,9 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 
 ### Lección 7: Entrada de datos (6 minutos)
 - **Descripción**: Haz tus programas interactivos aprendiendo a recibir las respuestas y textos que el usuario escribe desde su teclado.
-- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Enlace**: [Ver la lección](https://youtu.be/jfQDDPg6qMs)
 - **Conclusiones clave**: Uso de la herramienta `Scanner` de Java para leer datos desde la consola de comandos.
-- **Práctica**: [Abrir OnlineGDB - Lectura de Datos](https://www.onlinegdb.com/)
+- **Práctica**: [Abrir OnlineGDB - Lectura de Datos](https://www.onlinegdb.com/ebxeyQP38)
 
 ### Lección 8: Programacion Orientada a Objetos (7 minutos)
 - **Descripción**: Entramos al pilar de Java. Aprende a modelar cosas del mundo real en tu código creando moldes (clases) y copias reales (objetos).
