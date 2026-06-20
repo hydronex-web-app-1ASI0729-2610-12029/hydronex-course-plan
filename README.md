@@ -83,8 +83,8 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 |-------------------|---------------------|-----------------------------------------|
 | 1                 | ¿Qué es java?       | https://www.onlinegdb.com/              |
 | 2                 | Tipos de variables  |                     |
-| 3                 | Operadores          |                     |
-| 4                 | Condicionales       |                      |
+| 3                 | Operadores          | https://onlinegdb.com/htx7-0TOC         |
+| 4                 | Condicionales       | https://onlinegdb.com/GVr29DdoV         |
 | 5                 | Bucles              | https://www.onlinegdb.com/w4yas_E6w     |
 | 6                 | Código reutilizable | https://www.onlinegdb.com/1-YP6rlsp     |
 | 7                 | Entrada de datos    | https://www.onlinegdb.com/ebxeyQP38     |
