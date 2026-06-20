@@ -11,7 +11,7 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de Código Fuente**: [Repositorio de las lecciones](https://github.com/hydronex-web-app-1ASI0729-2610-12029/java-fundamentals-course-hydronex)
+**📂 Repositorio de Código Fuente**: [Repositorio de las lecciones](https://github.com/hydronex-web-app-1ASI0729-2610-12029/hydronex-course-plan)
 
 ## Secuencia de la Lección
 
@@ -59,15 +59,15 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 
 ### Lección 8: Programacion Orientada a Objetos (7 minutos)
 - **Descripción**: Entramos al pilar de Java. Aprende a modelar cosas del mundo real en tu código creando moldes (clases) y copias reales (objetos).
-- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Enlace**: [Ver la lección](https://youtu.be/3gTXRxnyoao)
 - **Conclusiones clave**: Una clase define atributos (características) y comportamientos; un objeto es la instanciación de esa clase.
-- **Práctica**: [Abrir OnlineGDB - Clases y Objetos Básicos](https://www.onlinegdb.com/)
+- **Práctica**: [Abrir OnlineGDB - Clases y Objetos Básicos](https://onlinegdb.com/hfL2DpmYU)
 
 ### Lección 9: Publico y privado: Getters/Setters (6 minutos)
 - **Descripción**: Descubre cómo mantener seguros los atributos de tus objetos bloqueando accesos no autorizados mediante la encapsulación.
-- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Enlace**: [Ver la lección](https://youtu.be/u6tDeGjwrZ4)
 - **Conclusiones clave**: Modificador `private` para proteger variables; métodos `get` y `set` para leer y modificar de forma segura.
-- **Práctica**: [Abrir OnlineGDB - Encapsulación](https://www.onlinegdb.com/)
+- **Práctica**: [Abrir OnlineGDB - Encapsulación](https://onlinegdb.com/hfL2DpmYU)
 
 ### Lección 10: Proyecto Final: El Minijuego POO Completo (6 minutos)
 - **Descripción**: ¡Hora de juntar todo! Construiremos un minijuego interactivo aplicando objetos, condicionales y métodos estructurados.
@@ -79,16 +79,19 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/hydronex-web-app-1ASI0729-2610-12029/hydronex-course-plan)
 - **Todas las actividades prácticas**:
 
-| Número de lección | Actividad         | Empezar a programar |
- |-------------------|-------------------|---------------------|
-| 1                 | Hola mundo        |                     |
-| 2                 | Variables         |                     |
-| 3                 | Bucles            |                     |
-| 4                 | Métodos y clases  |                     |
-| 5                 | Programa OOP      |                     |
-| 6                 | Finalizando curso |                     |
+| Número de lección | Actividad           | Empezar a programar                     |
+|-------------------|---------------------|-----------------------------------------|
+| 1                 | ¿Qué es java?       | https://www.onlinegdb.com/              |
+| 2                 | Tipos de variables  |                     |
+| 3                 | Operadores          |                     |
+| 4                 | Condicionales       |                      |
+| 5                 | Bucles              | https://www.onlinegdb.com/w4yas_E6w     |
+| 6                 | Código reutilizable | https://www.onlinegdb.com/1-YP6rlsp     |
+| 7                 | Entrada de datos    | https://www.onlinegdb.com/ebxeyQP38     |
+| 8                 | Paradigma Poo       | https://onlinegdb.com/hfL2DpmYU         |
+| 9                 | Público y privado   | https://onlinegdb.com/hfL2DpmYU         |
+| 10                | Proyecto final      |                     |
 
-- Cuestionario: [Prueba de conocimientos]()
 - Compartir: #JavaBeginners
 
 **¡Gracias por completar el curso!**
@@ -107,16 +110,18 @@ Período 202610
 
 NRC 12029
 **Nombre del equipo**: Hydronex
-**Líder del equipo**:
+
+**Líder del equipo**: Orosco, Juan
+
 **Integrantes del equipo**:
 
-| integrantes      | GitHub |
-|------------------|--------|
-| Guevara, Diego   |        |
-| Montalván, Bruno |        |
-| Espinar, Gabriel |        |
-| Orosco, Juan     |        |
-| Razuri, Matias   |        |
-| Retuerto, Jorge  |        |
+| integrantes      |
+|------------------|
+| Guevara, Diego   |
+| Montalván, Bruno |
+| Espinar, Gabriel |
+| Orosco, Juan     |
+| Razuri, Matias   |
+| Retuerto, Jorge  |
 
-**Fecha de entrega**: 06/06/26
+**Fecha de entrega**: 20/06/26
