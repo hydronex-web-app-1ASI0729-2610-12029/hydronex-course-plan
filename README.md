@@ -17,13 +17,13 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 - **Descripción**: Descubre qué es la programación, por qué Java es uno de los lenguajes más usados del mundo y cómo escribir tus primeras líneas sin instalar nada.
-- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Enlace**: [Ver la lección](https://youtu.be/mUbkWAebe9A)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; un programa es una secuencia de instrucciones para la computadora.
 - **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.onlinegdb.com/)
 
 ### Lección 2: Tipos de variables (6 minutos)
 - **Descripción**: Aprende cómo la computadora recuerda datos usando variables y cómo almacenar textos con el tipo de dato String.
-- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Enlace**: [Ver la lección](https://youtu.be/uk5lPS8-aAQ)
 - **Conclusiones clave**: Una variable es como una caja con nombre; `String` sirve para guardar palabras entre comillas.
 - **Práctica**: [Abrir OnlineGDB - Variables de Texto](https://www.onlinegdb.com/)
 
