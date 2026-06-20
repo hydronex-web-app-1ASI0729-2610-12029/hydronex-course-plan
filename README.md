@@ -11,7 +11,7 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de Código Fuente**: [Repositorio de las lecciones](https://github.com/hydronex-web-app-1ASI0729-2610-12029/java-fundamentals-course-hydronex)
+**📂 Repositorio de Código Fuente**: [Repositorio de las lecciones](https://github.com/hydronex-web-app-1ASI0729-2610-12029/hydronex-course-plan)
 
 ## Secuencia de la Lección
 
@@ -79,16 +79,19 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/hydronex-web-app-1ASI0729-2610-12029/hydronex-course-plan)
 - **Todas las actividades prácticas**:
 
-| Número de lección | Actividad         | Empezar a programar |
- |-------------------|-------------------|---------------------|
-| 1                 | Hola mundo        |                     |
-| 2                 | Variables         |                     |
-| 3                 | Bucles            |                     |
-| 4                 | Métodos y clases  |                     |
-| 5                 | Programa OOP      |                     |
-| 6                 | Finalizando curso |                     |
+| Número de lección | Actividad           | Empezar a programar                     |
+|-------------------|---------------------|-----------------------------------------|
+| 1                 | ¿Qué es java?       | https://www.onlinegdb.com/              |
+| 2                 | Tipos de variables  |                     |
+| 3                 | Operadores          |                     |
+| 4                 | Condicionales       |                      |
+| 5                 | Bucles              | https://www.onlinegdb.com/w4yas_E6w     |
+| 6                 | Código reutilizable | https://www.onlinegdb.com/1-YP6rlsp     |
+| 7                 | Entrada de datos    | https://www.onlinegdb.com/ebxeyQP38     |
+| 8                 | Paradigma Poo       |                     |
+| 9                 | Público y privado   |                     |
+| 10                | Proyecto final      |                     |
 
-- Cuestionario: [Prueba de conocimientos]()
 - Compartir: #JavaBeginners
 
 **¡Gracias por completar el curso!**
@@ -107,16 +110,18 @@ Período 202610
 
 NRC 12029
 **Nombre del equipo**: Hydronex
-**Líder del equipo**:
+
+**Líder del equipo**: Orosco, Juan
+
 **Integrantes del equipo**:
 
-| integrantes      | GitHub |
-|------------------|--------|
-| Guevara, Diego   |        |
-| Montalván, Bruno |        |
-| Espinar, Gabriel |        |
-| Orosco, Juan     |        |
-| Razuri, Matias   |        |
-| Retuerto, Jorge  |        |
+| integrantes      |
+|------------------|
+| Guevara, Diego   |
+| Montalván, Bruno |
+| Espinar, Gabriel |
+| Orosco, Juan     |
+| Razuri, Matias   |
+| Retuerto, Jorge  |
 
-**Fecha de entrega**: 06/06/26
+**Fecha de entrega**: 20/06/26
