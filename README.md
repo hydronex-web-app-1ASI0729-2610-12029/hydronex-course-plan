@@ -71,7 +71,7 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 
 ### Lección 10: Proyecto Final: El Minijuego POO Completo (6 minutos)
 - **Descripción**: ¡Hora de juntar todo! Construiremos un minijuego interactivo aplicando objetos, condicionales y métodos estructurados.
-- **Enlace**: [Ver la lección](https://www.youtube.com)
+- **Enlace**: [Ver la lección](https://youtu.be/opdFOO2cAOE)
 - **Conclusiones clave**: Resumen general de buenas prácticas y cómo seguir expandiendo tu camino en la programación con Java.
 - **Proyecto final**: [Abrir OnlineGDB - Proyecto Final de Curso](https://www.onlinegdb.com/)
 
