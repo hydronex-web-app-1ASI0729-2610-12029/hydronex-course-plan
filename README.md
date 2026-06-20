@@ -82,7 +82,7 @@ Nuestro objetivo es el desarrollo de las habilidades de lógica de programación
 | Número de lección | Actividad           | Empezar a programar                     |
 |-------------------|---------------------|-----------------------------------------|
 | 1                 | ¿Qué es java?       | https://www.onlinegdb.com/              |
-| 2                 | Tipos de variables  |                     |
+| 2                 | Tipos de variables  | https://onlinegdb.com/T03eA2G2h                    |
 | 3                 | Operadores          | https://onlinegdb.com/htx7-0TOC         |
 | 4                 | Condicionales       | https://onlinegdb.com/GVr29DdoV         |
 | 5                 | Bucles              | https://www.onlinegdb.com/w4yas_E6w     |
